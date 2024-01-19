@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.33aae2df.css",
+    "main.js": "/static/js/main.ad5c48a2.js",
+    "static/js/787.774594b4.chunk.js": "/static/js/787.774594b4.chunk.js",
+    "static/media/선글라스고양이.jpg": "/static/media/선글라스고양이.1cc9e0859e22338299b0.jpg",
+    "index.html": "/index.html",
+    "main.33aae2df.css.map": "/static/css/main.33aae2df.css.map",
+    "main.ad5c48a2.js.map": "/static/js/main.ad5c48a2.js.map",
+    "787.774594b4.chunk.js.map": "/static/js/787.774594b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33aae2df.css",
+    "static/js/main.ad5c48a2.js"
+  ]
+}
